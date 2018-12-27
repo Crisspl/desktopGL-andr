@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\code\android\app\src\main\AndroidManifest.xml:20:1-41:12
+INJECTED from D:\code\android\app\src\main\AndroidManifest.xml:20:1-41:12
+INJECTED from D:\code\android\app\src\main\AndroidManifest.xml:20:1-41:12
+INJECTED from D:\code\android\app\src\main\AndroidManifest.xml:20:1-41:12
+INJECTED from D:\code\android\app\src\main\AndroidManifest.xml:20:1-41:12
+INJECTED from D:\code\android\app\src\main\AndroidManifest.xml:20:1-41:12
+INJECTED from D:\code\android\app\src\main\AndroidManifest.xml:20:1-41:12
+	package
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:21:7-41
+		INJECTED from D:\code\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\code\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:20:1-41:12
+		INJECTED from D:\code\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\code\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:20:1-41:12
+		INJECTED from D:\code\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:20:11-69
+application
+ADDED from D:\code\android\app\src\main\AndroidManifest.xml:23:3-40:17
+	android:label
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:27:7-39
+	android:fullBackupContent
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:25:7-40
+	android:icon
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:26:7-41
+	android:allowBackup
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:24:7-34
+activity#android.app.NativeActivity
+ADDED from D:\code\android\app\src\main\AndroidManifest.xml:28:5-39:16
+	android:screenOrientation
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:31:15-52
+	android:label
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:29:15-47
+	android:configChanges
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:30:15-85
+	android:theme
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:32:15-46
+	android:name
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:28:15-56
+meta-data#android.app.lib_name
+ADDED from D:\code\android\app\src\main\AndroidManifest.xml:33:7-34:41
+	android:value
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:34:18-38
+	android:name
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:33:18-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\code\android\app\src\main\AndroidManifest.xml:35:7-38:23
+action#android.intent.action.MAIN
+ADDED from D:\code\android\app\src\main\AndroidManifest.xml:36:9-61
+	android:name
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:36:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\code\android\app\src\main\AndroidManifest.xml:37:9-69
+	android:name
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml:37:19-66
+uses-sdk
+INJECTED from D:\code\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\code\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\code\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\code\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\code\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\code\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\code\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\code\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\code\android\app\src\main\AndroidManifest.xml

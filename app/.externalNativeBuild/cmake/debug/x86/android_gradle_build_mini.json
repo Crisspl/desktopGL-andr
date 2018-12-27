@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "D:\\code\\android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\code\\android\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target clean"
+  ],
+  "libraries": {
+    "native_app_glue-Debug-x86": {
+      "artifactName": "native_app_glue",
+      "buildCommand": "D:\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\code\\android\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target native_app_glue",
+      "abi": "x86",
+      "output": "D:\\code\\android\\app\\.externalNativeBuild\\cmake\\debug\\x86\\libnative_app_glue.a"
+    },
+    "game-Debug-x86": {
+      "artifactName": "game",
+      "buildCommand": "D:\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\code\\android\\app\\.externalNativeBuild\\cmake\\debug\\x86 --target game",
+      "abi": "x86",
+      "output": "D:\\code\\android\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libgame.so"
+    }
+  }
+}

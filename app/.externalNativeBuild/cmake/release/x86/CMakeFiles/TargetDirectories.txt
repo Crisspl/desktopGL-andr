@@ -1,0 +1,4 @@
+D:/code/android/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/native_app_glue.dir
+D:/code/android/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/game.dir
+D:/code/android/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+D:/code/android/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir
