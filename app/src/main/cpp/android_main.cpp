@@ -39,11 +39,13 @@ void android_main(struct android_app *app) {
                 };
         EGLContext ctx = eglCreateContext(display, config, EGL_NO_CONTEXT, ctxAttrs);
         if (ctx == EGL_NO_CONTEXT)
-            __android_log_print(ANDROID_LOG_DEBUG, "debug", "#1 Failed to create desktop GL ctx!");
+            __android_log_print(ANDROID_LOG_DEBUG, "debug", "Failed to create desktop GL ctx! (eglCreateContext failed)");
+        else
+            __android_log_print(ANDROID_LOG_DEBUG, "debug", "Success creating dekstop GL ctx!");
     }
     else
     {
-        __android_log_print(ANDROID_LOG_DEBUG, "debug", "#2 Failed to create desktop GL ctx!");
+        __android_log_print(ANDROID_LOG_DEBUG, "debug", "Failed to create desktop GL ctx! (eglBindAPI failed)");
     }
 }
 
